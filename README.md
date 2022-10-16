@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chayandas07
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning Bachelor of Technology in computer science and technology.
+- 🌱 I’m currently pursuing Bachelor of Technology in computer science and technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
