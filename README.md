@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chayandas07
+- 👋 Hi, I’m @Chayan_Das.
 - 👀 I’m interested in web devlopment.
 - 🌱 I’m currently pursuing Bachelor of Technology in computer science and technology.
 - 💞️ I’m looking to collaborate on ...
