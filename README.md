@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/U6pkgpd.jpg)
+[MasterHead](https://wallpapercave.com/wp/U6pkgpd.jpg)
 <h1 align="center">Hi 👋, I'm Chayan Das</h1>
 <h3 align="center">A passionate student and developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
@@ -17,10 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chayandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chayandas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chayandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayandas" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chayandas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chayandas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chayandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chayandas" height="30" width="40" /></a>
+<a href="https://twitter.com/shuvoda777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvoda777" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chayan-das-03a899230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayan-das-03a899230" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
