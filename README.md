@@ -1,4 +1,4 @@
-[MasterHead](https://wallpapercave.com/wp/U6pkgpd.jpg)
+[![MasterHead](https://wallpapercave.com/wp/U6pkgpd.jpg)
 <h1 align="center">Hi 👋, I'm Chayan Das</h1>
 <h3 align="center">A passionate student and developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
