@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **C,C++,HTML,Python,CSS,Data Structures and Algorithms.**
 
-- 👨‍💻  my protfolio is available at [https://sites.google.com/view/techworldtech](https://sites.google.com/view/techworldtech)
-
-- 💬 Ask me about **C,C++,Data Structures and Algorithms.**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/techworldtech](https://sites.google.com/view/techworldtech)
+- 👨‍💻 my portfolio link [https://sites.google.com/view/techworldtech](https://sites.google.com/view/techworldtech)
 
 - 💬 Ask me about **C,C++,Data Structures and Algorithms.**
 
@@ -31,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayandas07&show_icons=true&locale=en&layout=compact" alt="chayandas07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chayandas07&show_icons=true&locale=en" alt="chayandas07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chayandas07&" alt="chayandas07" /></p>
