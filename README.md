@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C,C++,HTML,Python,CSS,Data Structures and Algorithms.**
 
-##- 👨‍💻 my portfolio link [https://thankful-bush-015ab6200.4.azurestaticapps.net)
+-## 👨‍💻 my portfolio link [https://thankful-bush-015ab6200.4.azurestaticapps.net)
 
 - 💬 Ask me about **C,C++,Data Structures and Algorithms.**
 
-##- 📫 How to reach me **https://www.linkedin.com/in/chayan-das-03a899230/**
+-## 📫 How to reach me **https://www.linkedin.com/in/chayan-das-03a899230/**
 
 - ⚡ Fun fact **I think I am funny.**
 
