@@ -11,7 +11,7 @@
 
 - 📝 I write articles on : [ https://theworldofapis101.blogspot.com/2023/10/unlocking-power-of-apis-insights-from.html ]
 
-- 📫 How to reach me **https://www.linkedin.com/in/chayan-das-03a899230/**
+- 📫 How to reach me **https://www.linkedin.com/in/chayandas07/**
 
 - ⚡ Fun fact **I think I am funny😊**
 
